@@ -66,14 +66,13 @@ Welcome to the Software Engineering repository! This repository contains notes, 
 
 ## Assignment Questions
 
-1. **Assignment Question 1:**
-   - Description or link to the assignment question.
+1. In the software process model what is the importance of the “Umbrella activity”? Is that releases of the forthcoming versions are possible without appropriate “Umbrella activity”?
 
-2. **Assignment Question 2:**
-   - Description or link to the assignment question.
+2. How agile manifesto are suitable to overcome the weakness of the traditional software models?
 
-3. **Assignment Question 3:**
-   - Description or link to the assignment question.
+3.  When should a modular design be implemented as monolithic software? How can this be accomplished? Is performance the only justification for implementation of monolithic software?
+
+4.  Using a data flow diagram and a processing narrative, describe a computer-based system that has distinct transform flow characteristics. Define flow boundaries and map the DFD into software architecture?
 
 ## Contributing
 
